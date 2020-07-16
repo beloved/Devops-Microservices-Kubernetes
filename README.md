@@ -1,4 +1,5 @@
 <include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/beloved/Devops-Microservices-Kubernetes.svg?style=svg)](https://circleci.com/gh/beloved/Devops-Microservices-Kubernetes)
 
 ## Project Overview
 
